@@ -1,165 +1,166 @@
-# 🤖 scarlet-md BOT
-
-A powerful and customizable **WhatsApp Multi-Device Bot** built using the Baileys library. It features group moderation, auto replies, stickers, media tools, games, and more — all optimized for modern WhatsApp multi-device support.
-
-<div align="center"> 
-  <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=00FFA3&center=true&width=910&height=100&lines=SCARLET-MD+BOT;Multi-Device+Whatsapp+Bot;Coded+By+KING+BADBOI" alt="Typing SVG" />
-  </a> 
-</div> 
-
-<div align="center"> 
-  <a href="https://github.com/BADBOI-v1/scarlet-md">
-    <img src="https://files.catbox.moe/w1r1mm.jpg" alt="scarlet-md BOT" height="300">
-  </a> 
-</div>
-
----
-
-## 🚀 Quick Links
+# 🔥 SCARLET-MD BOT 🔥
+*Next-Generation WhatsApp Multi-Device Automation*
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x">
-    <img src="https://img.shields.io/badge/Follow%20WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Follow WhatsApp Channel"/>
-  </a>
-  <a href="https://wa.me/2348140825959?text=Hi%20I%20want%20to%20report%20an%20error%20in%20SCARLET-MD%20BOT">
-    <img src="https://img.shields.io/badge/Report%20Error%20on%20WhatsApp-EA4335?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Report Error"/>
-  </a>
-  <a href="https://github.com/BADBOI-v1/scarlet-md/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download%20ZIP-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Download ZIP"/>
-  </a>
-  <a href="https://github.com/BADBOI-v1/scarlet-md/fork">
-    <img src="https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge&logo=github" alt="Fork Repository"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&text=SCARLET-MD&fontSize=80&fontAlign=50&fontAlignY=40&desc=Advanced%20WhatsApp%20Bot&descAlign=50&descAlignY=60" width="100%"/>
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&pause=1000&color=FF0080&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🤖+MULTI-DEVICE+WHATSAPP+BOT;⚡+POWERED+BY+BAILEYS+LIBRARY;🚀+CREATED+BY+KING+BADBOI" alt="Typing Animation" />
+</p>
 
 ---
 
-## 📦 Deploying scarlet-md
-
-**Step 1:** Fork This Repository  
-Click the "Fork Repo" button above or [fork here](https://github.com/BADBOI-v1/scarlet-md/fork).
-
-**Step 2:** Generate Pairing Code  
-Link your WhatsApp account using the links below:
+## 🎯 **Bot Capabilities**
 
 <div align="center">
-  <a href="https://snowbird-pairing.onrender.com/">
-    <img src="https://img.shields.io/badge/Generate%20Pairing%20Code-green?style=for-the-badge" alt="Generate Pairing Code"/>
-  </a>
-</div>
 
-> After generating `creds.json`, upload it to the `session` folder.
-
----
-
-## ⚙️ Features
-
-- ✅ Group Tag All (`.tagall`)
-- 🛡️ Admin-Only Restrictions
-- 🎮 Mini Games (Tic Tac Toe, etc.)
-- 🔈 Text-to-Speech
-- 🖼️ Sticker Maker
-- 🔗 Anti-Link Detection
-- 🚫 Warn System
-- 🎧 Music / YouTube Download
-
-## 📖 About scarlet-md
-
-scarlet-md is a Node.js-based WhatsApp bot powered by Baileys. It automates group tasks, entertains users, and provides advanced utilities in WhatsApp. It supports **multi-device** and can be hosted on Replit, Render, Railway, VPS, and more.
-
----
-
-## 🛠️ Manual Setup (Local)
-
-### Requirements
-
-- Node.js
-- Git
-
-### Installation Steps
-
-```bash
-git clone https://github.com/BADBOI-v1/scarlet-md
-cd scarlet-md
-npm install
-node index.js
+```
+🔸 Group Management & Moderation    🔸 Advanced Media Processing
+🔸 Interactive Games & Entertainment 🔸 Auto-Reply & Smart Responses  
+🔸 Sticker Creation & Conversion    🔸 Music & Video Downloads
+🔸 Anti-Spam & Security Features    🔸 Custom Commands & Automation
 ```
 
+</div>
+
 ---
 
-## 🌟 Connect With Us
+## ⚡ **Quick Deployment**
+
+<div align="center">
+  
+### Step 1: Get Your Copy
+[![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPOSITORY-FF6B35?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/BADBOI-v1/scarlet-md/fork)
+
+### Step 2: Generate Session
+[![Get Pairing Code](https://img.shields.io/badge/🔗_GENERATE_SESSION-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000)](https://snowbird-pairing.onrender.com/)
+
+### Step 3: Download & Deploy
+[![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-4CAF50?style=for-the-badge&logo=download&logoColor=white&labelColor=000000)](https://github.com/BADBOI-v1/scarlet-md/archive/refs/heads/main.zip)
+
+</div>
+
+---
+
+## 🌐 **SCRIPT KIDDIES NETWORK**
 
 <div align="center">
 
-### 🎗️ **FOLLOW THE SCRIPT KIDDIES CHANNEL** 😱
+### 👑 *Connect With The King Badboi Empire* 👑
 
-*Welcome to Our Community!* 🌈
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
 <div align="center">
 
-| Platform | Link | Description |
-|----------|------|-------------|
-| 📱 **WhatsApp Channel** | [Follow Channel](https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x) | Get latest updates & bot news |
-| 💬 **WhatsApp Group** | [Join Group](https://chat.whatsapp.com/D6NNN1gMQlqBJDstk5a5Gk) | Community support & discussions |
-| 🐙 **GitHub** | [@BADBOI-v1](https://github.com/BADBOI-v1) | Source code & contributions |
-| 🌐 **Website** | [Visit Site](https://king-badboi-wedsite.vercel.app/) | Official website & documentation |
-| 📱 **TikTok** | [@kingbadboi52](https://tiktok.com/@kingbadboi52) | Fun content & tutorials |
-| 🔵 **Telegram Group** | [Join Group](https://t.me/+x2VvZlj-F2E3MTNk) | Alternative community chat |
-| 📢 **Telegram Channel** | [Follow Channel](https://t.me/kingbadboiteam) | Updates & announcements |
+| 🎯 **PLATFORM** | 🔗 **CONNECT** | 📊 **PURPOSE** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="20"> **OFFICIAL CHANNEL** | [**📱 JOIN NOW**](https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x) | 🚀 Latest Updates & Bot News |
+| <img src="https://img.shields.io/badge/WhatsApp-128C7E?style=flat-square&logo=whatsapp&logoColor=white" height="20"> **COMMUNITY GROUP** | [**💬 CHAT WITH US**](https://chat.whatsapp.com/D6NNN1gMQlqBJDstk5a5Gk) | 🤝 Support & Discussions |
+| <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20"> **SOURCE CODE** | [**⭐ STAR REPO**](https://github.com/BADBOI-v1) | 💻 Code & Contributions |
+| <img src="https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white" height="20"> **OFFICIAL SITE** | [**🌟 VISIT NOW**](https://king-badboi-wedsite.vercel.app/) | 📚 Docs & Tutorials |
+| <img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" height="20"> **CREATIVE CONTENT** | [**🎵 FOLLOW**](https://tiktok.com/@kingbadboi52) | 🎬 Fun Videos & Demos |
+| <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="20"> **TELEGRAM HUB** | [**🔥 JOIN TEAM**](https://t.me/+x2VvZlj-F2E3MTNk) | ⚡ Real-time Chat |
+| <img src="https://img.shields.io/badge/Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white" height="20"> **NEWS CHANNEL** | [**📢 SUBSCRIBE**](https://t.me/kingbadboiteam) | 📰 Announcements |
 
 </div>
 
+---
+
+## 🚀 **Featured Connections**
+
 <div align="center">
 
-### 🎯 Quick Actions
+### 🔥 *Most Popular Platforms* 🔥
 
 <a href="https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x">
-  <img src="https://img.shields.io/badge/📱_Follow_WhatsApp_Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Follow WhatsApp Channel"/>
-</a>
-
-<a href="https://chat.whatsapp.com/D6NNN1gMQlqBJDstk5a5Gk">
-  <img src="https://img.shields.io/badge/💬_Join_WhatsApp_Group-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Group"/>
+<img src="https://img.shields.io/badge/🎗️_SCRIPT_KIDDIES_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54&logoWidth=30" alt="WhatsApp Channel" height="50"/>
 </a>
 
 <a href="https://king-badboi-wedsite.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Visit_Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Website"/>
+<img src="https://img.shields.io/badge/👑_KING_BADBOI_WEBSITE-FF6B35?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&logoWidth=30" alt="Official Website" height="50"/>
 </a>
 
 <a href="https://tiktok.com/@kingbadboi52">
-  <img src="https://img.shields.io/badge/🎵_Follow_TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="Follow TikTok"/>
-</a>
-
-<a href="https://t.me/kingbadboiteam">
-  <img src="https://img.shields.io/badge/📢_Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"/>
+<img src="https://img.shields.io/badge/🎬_TIKTOK_CREATOR-FF0050?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=000000&logoWidth=30" alt="TikTok" height="50"/>
 </a>
 
 </div>
 
 ---
 
-## 🤝 Contributing
-
-Found a bug or want a feature? [Report via WhatsApp](https://wa.me/2348140825959?text=Hi%20I%20want%20to%20report%20an%20error%20in%20Scarlet-MD%20BOT) or open an [Issue](https://github.com/BADBOI-v1/scarlet-md/issues).  
-Pull requests are welcome!
-
----
-
-## 💬 Support & Community
-
-- [Follow WhatsApp Channel](https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x)
-- [Contact on WhatsApp](https://wa.me/2348140825959)
-
-## 📄 License
-
-Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
-
----
+## 💻 **Local Installation**
 
 <div align="center">
-  <sub>Made with ❤️ by <a href="https://github.com/BADBOI-v1">KING BADBOI</a></sub>
-  <br>
-  <sub>🎗️ Join the Script Kiddies Community Today! 🌟</sub>
+
+### 🛠️ *Developer Setup*
+
+</div>
+
+```bash
+# Clone the repository
+git clone https://github.com/BADBOI-v1/scarlet-md.git
+
+# Navigate to project
+cd scarlet-md
+
+# Install dependencies
+npm install
+
+# Start the bot
+node index.js
+```
+
+**Requirements:** Node.js 16+ | Git | Stable Internet
+
+---
+
+## 🎮 **Bot Features Showcase**
+
+<div align="center">
+
+| Feature Category | Available Commands |
+|:---|:---|
+| **🛡️ Moderation** | `.tagall` `.warn` `.kick` `.promote` `.demote` |
+| **🎨 Media Tools** | `.sticker` `.toimg` `.tts` `.removebg` |
+| **🎵 Entertainment** | `.play` `.video` `.lyrics` `.joke` |
+| **🔧 Utilities** | `.weather` `.translate` `.qr` `.shorturl` |
+| **🎯 Games** | `.tictactoe` `.quiz` `.rps` `.dice` |
+
+</div>
+
+---
+
+## 🤝 **Support & Contributions**
+
+<div align="center">
+
+### 💡 *Need Help or Found a Bug?*
+
+<a href="https://wa.me/2348140825959?text=Hi%20King%20Badboi!%20I%20need%20help%20with%20SCARLET-MD%20BOT">
+<img src="https://img.shields.io/badge/📞_DIRECT_WHATSAPP_SUPPORT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=075E54" alt="WhatsApp Support" height="40"/>
+</a>
+
+<a href="https://github.com/BADBOI-v1/scarlet-md/issues">
+<img src="https://img.shields.io/badge/🐛_REPORT_ISSUES-FF4444?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Report Issues" height="40"/>
+</a>
+
+</div>
+
+---
+
+## 📜 **License & Credits**
+
+<div align="center">
+
+**SCARLET-MD BOT** © 2024 by [**KING BADBOI**](https://github.com/BADBOI-v1)  
+*Licensed under MIT License*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+### 🎉 *Thank you for choosing SCARLET-MD!* 🎉
+*Join the Script Kiddies Revolution Today!* ⚡
+
 </div>
