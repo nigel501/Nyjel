@@ -4,7 +4,7 @@ A powerful and customizable **WhatsApp Multi-Device Bot** built using the Bailey
 
 <div align="center"> 
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=00FFA3&center=true&width=910&height=100&lines=BEN-10+MD+BOT;Multi-Device+Whatsapp+Bot;Coded+By+SNOWBIRD0074" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=00FFA3&center=true&width=910&height=100&lines=scarlet+MD+BOT;Multi-Device+Whatsapp+Bot;Coded+By+kingbadboi" alt="Typing SVG" />
   </a> 
 </div> 
 
