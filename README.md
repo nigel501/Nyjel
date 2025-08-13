@@ -1,4 +1,4 @@
-# 🔥 SCARLET-MD BOT 🔥
+# 🔥 Nyjel BOT 🔥
 *Next-Generation WhatsApp Multi-Device Automation*
 
 <div align="center">
@@ -23,7 +23,7 @@
 🔸 Group Management & Moderation    🔸 Advanced Media Processing
 🔸 Interactive Games & Entertainment 🔸 Auto-Reply & Smart Responses  
 🔸 Sticker Creation & Conversion    🔸 Music & Video Downloads
-🔸 Anti-Spam & Security Features    🔸 Custom Commands & Automation
+🔸 Anti-Spam & Security Features    🔸 Custom Commands & Automation & Auto Reply
 ```
 
 </div>
@@ -51,7 +51,7 @@
 
 <div align="center">
 
-### 👑 *Connect With The King Badboi Empire* 👑
+### 👑 *Connect With Nyjel* 👑
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
